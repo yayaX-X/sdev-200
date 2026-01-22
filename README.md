@@ -1,2 +1,2 @@
 # sdev-200
-assignments and notes
+good luck soldier!
