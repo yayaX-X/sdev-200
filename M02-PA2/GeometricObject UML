@@ -1,0 +1,16 @@
+-----------------------------------------------------
+| GeometricObject                                   |
+-----------------------------------------------------
+| - color: String                                   |
+| - filled: boolean                                 |
+| - dateCreated: Date                               |
+-----------------------------------------------------
+| + GeometricObject()                               |
+| + GeometricObject(color: String, filled: boolean) |
+| + getColor(): String                              |
+| + setColor(color: String)                         |
+| + isFilled(): boolean                             |
+| + setFilled(filled: boolean)                      |
+| + getDateCreated(): Date                          |
+| + toString(): String                              |
+-----------------------------------------------------
