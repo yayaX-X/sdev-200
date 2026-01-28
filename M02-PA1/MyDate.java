@@ -1,8 +1,7 @@
 import java.util.GregorianCalendar;
 
 // Class creation and declerations
-public class MyDate
-{
+public class MyDate {
     int year;
     int month;
     int day;
